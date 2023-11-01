@@ -1,0 +1,9 @@
+Employee ID: 2222
+Name: Yvan snfs
+Email: sfsf@tsts.k
+Base Annual Salary: $555.0
+Role: Director
+Monthly Salary: $4675.833333333333
+Allowances: {}
+Bonuses: $55555.0
+Deductions: $0

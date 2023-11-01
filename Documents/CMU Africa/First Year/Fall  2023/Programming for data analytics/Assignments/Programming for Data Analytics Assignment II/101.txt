@@ -1,0 +1,9 @@
+Employee ID: 101
+Name: Elishas Elisha
+Email: tst@test.com
+Base Annual Salary: $500000.0
+Role: Director
+Monthly Salary: $41833.333333333336
+Allowances: {}
+Bonuses: $2000.0
+Deductions: $0

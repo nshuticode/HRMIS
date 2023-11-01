@@ -1,0 +1,9 @@
+Employee ID: 260
+Name: Nshuti Elise
+Email: test@cmu.com
+Base Annual Salary: $5000000.0
+Role: Manager
+Monthly Salary: $416667.5
+Allowances: {'department': 'IT', 'direct_reports': 5}
+Bonuses: $5.0
+Deductions: $0
